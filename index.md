@@ -24,9 +24,9 @@ This is a directory for web applications related to high-throughput phenotyping 
 
 **Training Course**<br>
 
-The KOICA-UPLB-IRRI designed **Basic Digital Phenotyping Course** includes modules on High-Throughput Phenotyping using drones and ImageBreed. <br>
+The Bioinformatics Team under the KOICA-UPLB-IRRI project designed **Basic Digital Phenotyping Course** which includes modules on High-Throughput Phenotyping using drones and ImageBreed. <br>
 
-For more information on the course, visit Basic Digital Phenotyping on **[openlearning.cgiar.org]**. Course schedule: September 19 - November 22, 2024<br>
+For more information on the course, visit Basic Digital Phenotyping on **[openlearning.cgiar.org]**. The course was conducted last September 19 - November 22, 2024.<br>
 
 ---
 
