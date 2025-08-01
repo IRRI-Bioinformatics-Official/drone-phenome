@@ -34,5 +34,5 @@ For more information on the course, visit Basic Digital Phenotyping on **[openle
 [ImageBreed]: http://18.138.161.175:8080/
 [CropGalaxy]: http://cropgalaxy.excellenceinbreeding.org/
 [openlearning.cgiar.org]: https://openlearning.cgiar.org/
-[Drone-based mapping of agricultural fields]:
-[Standard operating procedures for UAV phenotyping]: 
+[Drone-based mapping of agricultural fields]: 
+[Standard operating procedures for UAV phenotyping]: docs/EiB_M4_ SOP-UAV-Phenotyping-12-10-20.pdf
