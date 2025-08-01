@@ -1,5 +1,5 @@
 ---
-title: DRONE-PHENOME
+title: Home
 layout: home
 ---
 
