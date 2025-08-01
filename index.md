@@ -9,16 +9,16 @@ This is a directory for web applications related to high-throughput phenotyping 
 
 **Web Tools**<br>
 
-**[PhenoPredictML]**<br>
-**[ImageBreed]**<br>
-**[CropGalaxy]**<br>
+- **[PhenoPredictML]**<br>
+- **[ImageBreed]**<br>
+- **[CropGalaxy]**<br>
 
 ---
 
 **Standard Operating Procedures**<br>
 
-<a href="docs/Drone training manual v1.5.pdf" target="_blank">Drone-based mapping of agricultural fields</a><br>
-<a href="docs/EiB_M4_ SOP-UAV-Phenotyping-12-10-20.pdf" target="_blank">Standard operating procedures for UAV phenotyping</a><br>
+- <a href="docs/Drone training manual v1.5.pdf" target="_blank">Drone-based mapping of agricultural fields</a><br>
+- <a href="docs/EiB_M4_ SOP-UAV-Phenotyping-12-10-20.pdf" target="_blank">Standard operating procedures for UAV phenotyping</a><br>
 
 ---
 
