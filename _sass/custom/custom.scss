@@ -25,3 +25,9 @@ a {
     border-color: #1e7e34;
   }
 }
+
+// If you want the logo and title on the same line
+.site-header {
+  display: flex;
+  align-items: center;
+}
