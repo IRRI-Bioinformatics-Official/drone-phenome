@@ -1,0 +1,27 @@
+// Change link colors to green
+$link-color: #28a745;  // Default green
+$btn-primary-color: #28a745;
+
+// You can also customize different green shades for different states
+a {
+  color: #28a745 !important;
+  
+  &:hover {
+    color: #218838 !important;  // Darker green on hover
+  }
+  
+  &:visited {
+    color: #20c997 !important;  // Slightly different green for visited links
+  }
+}
+
+// Green buttons
+.btn-primary {
+  background-color: #28a745;
+  border-color: #28a745;
+  
+  &:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+  }
+}
