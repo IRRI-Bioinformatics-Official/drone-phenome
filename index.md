@@ -30,8 +30,6 @@ For more information on the course, visit Basic Digital Phenotyping on **[openle
 
 For future training opportunities, please visit the **[IRRI Education]** website.<br> 
 
----
-
 [PhenoPredictML]: https://high-throuhghput-phenotyping.streamlit.app/
 [ImageBreed]: http://18.138.161.175:8080/
 [CropGalaxy]: http://cropgalaxy.excellenceinbreeding.org/
