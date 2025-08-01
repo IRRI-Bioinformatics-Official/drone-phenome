@@ -7,4 +7,9 @@ url: https://jdetras.github.io/drone-phenome
 
 # aux_links:
 #  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+# Custom styling
+logo: "assets/images/IRRI_65.png"
+
+# Footer
 footer_content: "Breeding Innovations and Informatics, Rice Breeding Innovations Department, IRRI &copy; 2025"
