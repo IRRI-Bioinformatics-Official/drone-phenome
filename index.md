@@ -28,9 +28,12 @@ The Bioinformatics Team under the KOICA-UPLB-IRRI project designed **Basic Digit
 
 For more information on the course, visit Basic Digital Phenotyping on **[openlearning.cgiar.org]**. The course was conducted last September 19 - November 22, 2024.<br>
 
+For future training opportunities, please visit the **[IRRI Education]** website.<br> 
+
 ---
 
 [PhenoPredictML]: https://high-throuhghput-phenotyping.streamlit.app/
 [ImageBreed]: http://18.138.161.175:8080/
 [CropGalaxy]: http://cropgalaxy.excellenceinbreeding.org/
 [openlearning.cgiar.org]: https://openlearning.cgiar.org/
+[IRRI Education]: https://education.irri.org/
