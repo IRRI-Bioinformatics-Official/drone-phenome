@@ -11,12 +11,12 @@ This is a directory for web applications related to high-throughput phenotyping 
 
 ## **Web Tools**<br>
 
-These web tools are developed at IRRI, adapting open-source web applications. 
+These web tools are developed at IRRI, adapting open-source web technologies. 
 
-- [Breedbase@IRRI]<br>
-- [CropGalaxy]<br>
-- [ImageBreed@IRRI]<br>
-- [PhenoPredictML]<br>
+- <a href="http://breedbase.duckdns.org/" target="_blank">Breedbase-IRRI</a><br>
+- <a href="http://cropgalaxy.excellenceinbreeding.org/" target="_blank">CropGalaxy</a><br>
+- <a href="http://18.138.161.175:8080" target="_blank">Imagebreed-IRRI</a><br>
+- <a href="https://high-throuhghput-phenotyping.streamlit.app/" target="_blank">PhenoPredictML</a><br>
 
 ---
 
@@ -24,12 +24,12 @@ These web tools are developed at IRRI, adapting open-source web applications.
 
 These opens-source tools are available for use in high-throughput data analysis. 
 
-- [Breedbase]<br>
-- [EasyIDP 2.0]<br>
-- [ImageBreed]<br>
-- [FIELDimageR]<br>
-- [OpenDroneMap]<br>
-- [RStudio Desktop]<br>
+- <a href="https://breedbase.org/" target="_blank">Breedbase</a><br>
+- <a href="https://easyidp.readthedocs.io/en/latest/index.html" target="_blank">EasyIDP 2.0</a><br>
+- <a href="https://imagebreed.org/" target="_blank">ImageBreed</a><br>
+- <a href="https://github.com/OpenDroneMap/FIELDimageR" target="_blank">FIELDimageR</a><br>
+- <a href="https://www.opendronemap.org/" target="_blank">OpenDroneMap</a><br>
+- <a href="https://posit.co/download/rstudio-desktop/" target="_blank">RStudio Desktop</a><br>
 
 ---
 
@@ -48,6 +48,8 @@ For more information on the course, visit Basic Digital Phenotyping on [openlear
 
 For future training opportunities, please visit the [IRRI Education] website.<br> 
 
+---
+
 [PhenoPredictML]: https://high-throuhghput-phenotyping.streamlit.app/
 [ImageBreed@IRRI]: http://18.138.161.175:8080/
 [CropGalaxy]: http://cropgalaxy.excellenceinbreeding.org/
@@ -56,7 +58,7 @@ For future training opportunities, please visit the [IRRI Education] website.<br
 [EasyIDP 2.0]: https://easyidp.readthedocs.io/en/latest/index.html
 [OpenDroneMap]: https://www.opendronemap.org/
 [Breedbase]: https://breedbase.org/
-[Breedbase@IRRI]:http://breedbase.duckdns.org/
+[Breedbase@IRRI]: http://breedbase.duckdns.org/
 [RStudio Desktop]: https://posit.co/download/rstudio-desktop/
 [ImageBreed]: https://imagebreed.org/
 [FIELDimageR]: https://github.com/OpenDroneMap/FIELDimageR
