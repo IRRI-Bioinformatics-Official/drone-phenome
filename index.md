@@ -17,8 +17,8 @@ This is a directory for web applications related to high-throughput phenotyping 
 
 **Standard Operating Procedures**<br>
 
-[Drone-based mapping of agricultural fields]<br>
-[Standard operating procedures for UAV phenotyping]<br>
+<a href="docs/Drone training manual v1.5.pdf" target="_blank">Drone-based mapping of agricultural fields</a><br>
+<a href="docs/EiB_M4_ SOP-UAV-Phenotyping-12-10-20.pdf" target="_blank">Standard operating procedures for UAV phenotyping</a><br>
 
 ---
 
@@ -34,5 +34,3 @@ For more information on the course, visit Basic Digital Phenotyping on **[openle
 [ImageBreed]: http://18.138.161.175:8080/
 [CropGalaxy]: http://cropgalaxy.excellenceinbreeding.org/
 [openlearning.cgiar.org]: https://openlearning.cgiar.org/
-[Drone-based mapping of agricultural fields](docs/Drone training manual v1.5.pdf)
-[Standard operating procedures for UAV phenotyping](docs/EiB_M4_ SOP-UAV-Phenotyping-12-10-20.pdf)
