@@ -45,7 +45,7 @@ These open-source tools are available for use in high-throughput data analysis.
 <table>
   <tr>
     <td style="vertical-align: top;">
-      <img src="assets/images/training-course.jpeg" alt="Alt text" width="1200" style="margin-right: 20px;">
+      <img src="assets/images/training-course.jpeg" alt="Alt text" width="1000" style="margin-right: 20px;">
     </td>
     <td style="padding-left: 20px; vertical-align: top;">
       <p>The Bioinformatics Team under the KOICA-UPLB-IRRI project designed <b>Basic Digital Phenotyping Course</b> which includes modules on High-Throughput Phenotyping using drones and ImageBreed.</p>
