@@ -22,7 +22,7 @@ These web tools are developed at IRRI, adapting open-source web technologies.
 
 ## **Open-source Tools**<br>
 
-These opens-source tools are available for use in high-throughput data analysis. 
+These open-source tools are available for use in high-throughput data analysis. 
 
 - <a href="https://breedbase.org/" target="_blank">Breedbase</a><br>
 - <a href="https://easyidp.readthedocs.io/en/latest/index.html" target="_blank">EasyIDP 2.0</a><br>
@@ -56,14 +56,3 @@ These opens-source tools are available for use in high-throughput data analysis.
 </table>
 
 ---
-
-[PhenoPredictML]: https://high-throuhghput-phenotyping.streamlit.app/
-[ImageBreed@IRRI]: http://18.138.161.175:8080/
-[CropGalaxy]: http://cropgalaxy.excellenceinbreeding.org/
-[EasyIDP 2.0]: https://easyidp.readthedocs.io/en/latest/index.html
-[OpenDroneMap]: https://www.opendronemap.org/
-[Breedbase]: https://breedbase.org/
-[Breedbase@IRRI]: http://breedbase.duckdns.org/
-[RStudio Desktop]: https://posit.co/download/rstudio-desktop/
-[ImageBreed]: https://imagebreed.org/
-[FIELDimageR]: https://github.com/OpenDroneMap/FIELDimageR
