@@ -42,19 +42,24 @@ These opens-source tools are available for use in high-throughput data analysis.
 
 ## **Training Course**<br>
 
-The Bioinformatics Team under the KOICA-UPLB-IRRI project designed **Basic Digital Phenotyping Course** which includes modules on High-Throughput Phenotyping using drones and ImageBreed. <br>
-
-For more information on the course, visit Basic Digital Phenotyping on [openlearning.cgiar.org]. The course was conducted last September 19 - November 22, 2024.<br>
-
-For future training opportunities, please visit the [IRRI Education] website.<br> 
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <img src="assets/images/training-course.jpeg" alt="Alt text" width="1200" style="margin-right: 20px;">
+    </td>
+    <td style="padding-left: 20px; vertical-align: top;">
+      <p>The Bioinformatics Team under the KOICA-UPLB-IRRI project designed <b>Basic Digital Phenotyping Course</b> which includes modules on High-Throughput Phenotyping using drones and ImageBreed.</p>
+      <p>For more information on the course, visit Basic Digital Phenotyping on <a href="https://openlearning.cgiar.org/" target="_blank">openlearning.cgiar.org</a>. The course was conducted last September 19 - November 22, 2024.</p>
+      <p>For future training opportunities, please visit the <a href="https://education.irri.org/" target="_blank">IRRI Education</a> website.<br> This is the text that will appear on the right side of the image.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 [PhenoPredictML]: https://high-throuhghput-phenotyping.streamlit.app/
 [ImageBreed@IRRI]: http://18.138.161.175:8080/
 [CropGalaxy]: http://cropgalaxy.excellenceinbreeding.org/
-[openlearning.cgiar.org]: https://openlearning.cgiar.org/
-[IRRI Education]: https://education.irri.org/
 [EasyIDP 2.0]: https://easyidp.readthedocs.io/en/latest/index.html
 [OpenDroneMap]: https://www.opendronemap.org/
 [Breedbase]: https://breedbase.org/
